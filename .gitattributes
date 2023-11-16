@@ -1,3 +1,5 @@
+data/mtdgl.dat filter=lfs diff=lfs merge=lfs -text
+cobol/gl.csv filter=lfs diff=lfs merge=lfs -text
 data/mtdgl.dat[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text filter=lfs diff=lfs merge=lfs -text
 cobol/gl.csv[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text filter=lfs diff=lfs merge=lfs -text
 cobol/gl.csv !text !filter !merge !diff
