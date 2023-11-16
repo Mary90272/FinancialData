@@ -1,25 +1,3 @@
-antiorm==1.2.1
-asgiref==3.7.2
-cachetools==5.3.1
-certifi==2023.7.22
-charset-normalizer==3.3.0
-db==0.1.1
-db-sqlite3==0.0.1
-Django==4.2.5
-django-cors-headers==4.2.0
-google-auth==2.23.2
-google-auth-oauthlib==1.1.0
-gspread==5.11.3
-httplib2==0.22.0
-idna==3.4
-oauth2client==4.1.3
-oauthlib==3.2.2
-pyasn1==0.5.0
-pyasn1-modules==0.3.0
-pyparsing==3.1.1
-requests==2.31.0
-requests-oauthlib==1.3.1
-rsa==4.9
-six==1.16.0
-sqlparse==0.4.4
-urllib3==2.0.6
+version https://git-lfs.github.com/spec/v1
+oid sha256:354fc2b4fc067dbe819b560b289f55b3130e3a348a465884bb13f5ab953a0e99
+size 436
