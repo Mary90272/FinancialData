@@ -53,7 +53,7 @@ Copy code
 cobc -x gldetlcsvcg.cbl
 
 ## Contact
-For any inquiries, please contact ([Mary]) at ([lefebvre.mary90272@gmail.com]).
+For any inquiries, please contact Mary at [lefebvre.mary90272@gmail.com].
 
 ## Git Large File Storage (LFS) for managing large files:
  version https://git-lfs.github.com/spec/v1
